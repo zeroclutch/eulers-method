@@ -1,4 +1,4 @@
-# ODE Solver
+# Euler's Method
 This project numerically solves n-th dimensional ODEs using Euler's method. 
 
 ```js

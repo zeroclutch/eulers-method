@@ -1,5 +1,5 @@
 # Euler's Method
-This project numerically solves n-th dimensional ODEs using Euler's method. 
+This project numerically solves n-th order ODEs using Euler's method. 
 
 ```js
 const equation = new ODE({
